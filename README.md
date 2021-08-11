@@ -12,7 +12,6 @@ come from a smaller town, I enjoy a lot of outdoor activities even though they a
 to warm up to people, but I do enjoy getting to know others.
 
 ## :dart: Current Focus
-- First and foremost is finishing my degree
 - General game development skills
 - UI and GUI design
 - Linux and Windows development
