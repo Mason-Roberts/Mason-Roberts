@@ -17,16 +17,16 @@ some ideas I've had over the past couple of years.
 
 
 ## :package: Projects
-My new projects will be available on this profile, but during my college coursework I used a ![https://github.com/UnknwonWarlock](different GitHub account).
+My new projects will be available on this profile, but during my college coursework I used a [different GitHub account](https://github.com/UnknwonWarlock).
 
-### ![https://github.com/link00000000/mimic](Mimic)
-A group project where ![](Logan Crandall) and I worked to develop a remote IP camera over WebRTC.
+### [Mimic](https://github.com/link00000000/mimic)
+A group project where [Logan Crandall](https://github.com/link00000000) and I worked to develop a remote IP camera over WebRTC.
 
-### ![](Cmpct)
-A group project where ![](Logan Crandall) and I worked to develop a URL shortener that can also collect analytic data from anyone who clicks the links.
+### [Cmpct](https://github.com/link00000000/cmpct)
+A group project where [Logan Crandall](https://github.com/link00000000) and I worked to develop a URL shortener that can also collect analytic data from anyone who clicks the links.
 
-### ![](Illusory Wall)
-A group project where ![](Logan Crandall) and I worked to develop a a wiki for the dark souls games that instead of users seeking the information, the information could come to them. The users could use searches on the main page to bring the various enemies' data to them and compare their resulting stats with graphs.
+### [Illusory Wall](https://github.com/link00000000/illusory-wall)
+A group project where [Logan Crandall](https://github.com/link00000000) and I worked to develop a a wiki for the dark souls games that instead of users seeking the information, the information could come to them. The users could use searches on the main page to bring the various enemies' data to them and compare their resulting stats with graphs.
 
 ## :email: Contact
 You can contact me at my personal email mcroberts0000@gmail.com
