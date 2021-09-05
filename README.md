@@ -28,5 +28,8 @@ A group project where [Logan Crandall](https://github.com/link00000000) and I wo
 ### [Illusory Wall](https://github.com/link00000000/illusory-wall)
 A group project where [Logan Crandall](https://github.com/link00000000) and I worked to develop a a wiki for the dark souls games that instead of users seeking the information, the information could come to them. The users could use searches on the main page to bring the various enemies' data to them and compare their resulting stats with graphs.
 
+###  [PCR Simulation](https://github.com/UnknwonWarlock/BIO-1)
+A poject I did for Bioinformatics where we simulated PCR with the COVID-19 genome.
+
 ## :email: Contact
 You can contact me at my personal email mcroberts0000@gmail.com
